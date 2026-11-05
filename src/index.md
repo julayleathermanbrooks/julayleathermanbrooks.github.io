@@ -30,7 +30,7 @@ footer: >-
 ---
 
 I'm a master's student in computer science at [Portland State University](https://plv.cs.pdx.edu/). I'm also currently a research intern at [EURECOM](https://www.s3.eurecom.fr/), under the supervision 
-of [Lesly-Ann Daniel](https://leslyann-daniel.fr/).
+of [Lesly-Ann Daniel](https://leslyann-daniel.fr/), working on compiler support for hardware secrecy tracking.
 
 Previously, I was a research intern at [MPI-SP](https://www.mpi-sp.org/), in the Formally Verified Security group, under the supervision of [Cătălin Hrițcu](https://catalin-hritcu.github.io/). I worked on formal verification for Spectre mitigations. From this internship came the publication below, as well as my master's thesis, advised by [Andrew Tolmach](https://web.cecs.pdx.edu/~apt/).
 
