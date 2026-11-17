@@ -34,7 +34,7 @@ of [Lesly-Ann Daniel](https://leslyann-daniel.fr/), working on compiler support 
 
 Previously, I was a research intern at [MPI-SP](https://www.mpi-sp.org/), in the Formally Verified Security group, under the supervision of [Cătălin Hrițcu](https://catalin-hritcu.github.io/). I worked on formal verification for Spectre mitigations. From this internship came the publication below, as well as my master's thesis, advised by [Andrew Tolmach](https://web.cecs.pdx.edu/~apt/).
 
-My CV can be found [here](website/files/ResumeJulayLeathermanBrooks.pdf).
+My CV can be found [here](/website/files/ResumeJulayLeathermanBrooks.pdf).
 
 # Publications
 
