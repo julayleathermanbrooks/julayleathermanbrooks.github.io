@@ -11,7 +11,7 @@ picture: img/square.jpeg
 picture-round: true
 side-by-side: true
 disable-dark-mode: true
-pronouns: they/them or she/her
+pronouns: they/them, she/her
 og-picture: https://julayleathermanbrooks.github.io/website/img/square.jpeg
 orcid: 0009-0005-5957-6981
 # dblp: https://dblp.org/
